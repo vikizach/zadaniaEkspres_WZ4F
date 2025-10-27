@@ -1,0 +1,36 @@
+{
+  "artykuly": [
+    {
+      "tytul": "Przepis na super naleśniki! Mniam mniam pychota ^^",
+      "tresc": "*bardzo bardzo fajny przepis na naleśniki*"
+    },
+    {
+      "tytul": "Najlepsze sposoby na obniżenie stresu",
+      "tresc": "*Sposoby na stres*"
+    },
+    {
+      "tytul": "10 zdjęć najsłodszych kociaków",
+      "tresc": "kotki =^.^="
+    },
+    {
+      "id": 4,
+      "tytul": "Test",
+      "tresc": "test"
+    },
+    {
+      "id": 5,
+      "tytul": "Test",
+      "tresc": "test"
+    },
+    {
+      "id": 6,
+      "tytul": "Test",
+      "tresc": "test"
+    },
+    {
+      "id": 7,
+      "tytul": "test",
+      "tresc": "test"
+    }
+  ]
+}
